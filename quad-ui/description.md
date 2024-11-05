@@ -8,10 +8,6 @@
 
 ---
 
-![alt text](wireframes/2.png)
-
----
-
 ![alt text](wireframes/3.png)
 
 ---

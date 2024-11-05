@@ -2,7 +2,21 @@
 
 ![alt text](wireframes/1.png)
 
+## Intended User Flow
+
+![alt text](wireframes/2.png)
+
 ---
+
+![alt text](wireframes/2.png)
+
+---
+
+![alt text](wireframes/3.png)
+
+---
+
+## Description
 
 Quad layout UI for optimising efficiency of interactions with LLMs delivered via a chatbot UI interface.
 

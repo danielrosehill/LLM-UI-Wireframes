@@ -5,6 +5,18 @@
 I'm working on a project to create an inuitive knowledge management system that leverages large language models (LLMs) as fundamental "players" in the knowledge generation process. 
 
 This repo hosts some wireframes for various UI ideas for frontends.
+
+---
+
+## Quad Frontend
+
+![alt text](quad-ui/wireframes/1.png)
+
+![alt text](quad-ui/wireframes/2.png)
+
+![alt text](quad-ui/wireframes/3.png)
+
+---
  
 ## Author
 
